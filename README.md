@@ -1,7 +1,7 @@
 All scripts and data used for CNN training on MD data studying curvature sensing by helical peptides.
 
 When using this code, please cite:
-Van Hilten, N., Methorst, J., Verwei, N. and Risselada, H.J., (2022). Physics-based generative model of lipid packing defect sensing peptides; distinguishing sensors from binders. DOI: 10.1101/2022.09.01.506157v2
+Van Hilten, N.; Methorst, J.; Verwei, N.; Risselada, H.J., Science Advances. 2023, 9(11). DOI: 10.1126/sciadv.ade8839
 
 This repo contains:
 - data.txt			The original data set with sequences in first column and MD-calculated ddF values in second column
