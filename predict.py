@@ -9,7 +9,7 @@
 #   prediction.txt file with sequences in the first column and the predicted relative membrane binding free energy (in kJ/mol) in the second column
 #
 # When using this code, please cite:
-# Van Hilten, N., Methorst, J., Verwei, N. and Risselada, H.J., (2022). Physics-based inverse design of lipid packing defect sensing peptides; distinguishing sensors from binders.
+# Van Hilten, N.; Methorst, J.; Verwei, N.; Risselada, H.J., Science Advances. 2023, 9(11). DOI: 10.1126/sciadv.ade8839
 #######
 
 import pickle
