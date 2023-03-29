@@ -2,7 +2,7 @@
 # This code was written by Nino Verwei and Niek van Hilten at Leiden University, The Netherlands (23 August 2022)
 #
 # When using this code, please cite:
-# Van Hilten, N., Methorst, J., Verwei, N. and Risselada, H.J., (2022). Physics-based inverse design of lipid packing defect sensing peptides; distinguishing sensors from binders.
+# Van Hilten, N.; Methorst, J.; Verwei, N.; Risselada, H.J., Science Advances. 2023, 9(11). DOI: 10.1126/sciadv.ade8839
 #######
 
 
